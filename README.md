@@ -4,4 +4,7 @@ Excel Dashboard Visualization
 
 [Adventure Project.xlsx](https://github.com/mmankoji/Adventure-Works/files/11983275/Adventure.Project.xlsx)
 
+![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/a58dc6c9-7fa8-4c87-821f-d838697bd928)
+
+
 ![Dashboard 1](https://github.com/mmankoji/Adventure-Works/assets/81578274/eae822c1-75cd-4891-a939-025c2264a9cd)
