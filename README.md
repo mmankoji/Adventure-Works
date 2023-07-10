@@ -1,5 +1,5 @@
 # Executive Summary
-The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fictitious company which manufactures and sell bicycles in North America, Europe, and Asia. I will analyze the Production department from 2011 to 2014 to gain insights on several aspects including total quantity produced by year, quantity by production unit, orders by product, and production units with highest and lowest production capacity.
+The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fictitious company which manufactures and sell bicycles in North America, Europe, and Asia. I will analyze the Production department from 2010 to 2014 to gain insights on several aspects including total quantity produced by year, quantity by production unit, orders by product, and production units with highest and lowest production capacity.
 
 Excel Dashboard Visualization
 
