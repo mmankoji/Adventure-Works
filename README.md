@@ -15,13 +15,13 @@ The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fict
 
 
 1. Highest Sales Contribution in the United States and Australia
-   ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d678cea4-b5fb-4d43-a5ca-416aeaf800b8)
+ ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d678cea4-b5fb-4d43-a5ca-416aeaf800b8)
 
-2. Quarterly Sales Observations
+3. Quarterly Sales Observations
    * Highlight that, based on yearly sales data, the majority of sales occurred in Quarter 4.
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d2245186-581e-4c19-8bfa-de2d28c3c0bc)
 
-3. Highest Sales Year
+4. Highest Sales Year
    * Emphasize that the highest sales year was 2013.
    * Indicate the specific sales value or growth percentage for 2013 compared to other years. 
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/12015d13-519c-48c5-8766-cf8120cff212)
