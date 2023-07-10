@@ -13,8 +13,8 @@ The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fict
 # Product Range:
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/5780607d-e791-4e4c-9c30-b27d42cd1e90)
 
-
 1. Highest Sales Contribution in the United States and Australia
+   * United State : 9.39M and Australia : 9.06M
  ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d678cea4-b5fb-4d43-a5ca-416aeaf800b8)
 
 3. Quarterly Sales Observations
