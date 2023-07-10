@@ -1,4 +1,5 @@
-Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's a sample database. The query editing was done in 'MySQL' and the visualization part was done using 'Microsoft Power BI'. Also for analysis, I used MS Excel and PowerBI's query tool.
+# Excutive Summary
+The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fictitious company which manufactures and sell bicycles in North America, Europe, and Asia. I will analyze the Production department from 2011 to 2014 to gain insights on several aspects including total quantity produced by year, quantity by production unit, orders by product, and production units with highest and lowest production capacity.
 
 Excel Dashboard Visualization
 
