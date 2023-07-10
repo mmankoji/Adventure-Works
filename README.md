@@ -15,25 +15,33 @@ The aim of this analysis is to focus on Adventure Works Cycles, a Microsoft fict
 
 1. Highest Sales Contribution in the United States and Australia
    * United State : 9.39M and Australia : 9.06M
-![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d678cea4-b5fb-4d43-a5ca-416aeaf800b8)
+![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/8d90ae7e-c051-4704-bc06-ff72844d6e14)
 
 3. Quarterly Sales Observations
    * Highlight that, based on yearly sales data, the majority of sales occurred in Quarter 4.
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/d2245186-581e-4c19-8bfa-de2d28c3c0bc)
 
 4. Highest Sales Year
-   * Emphasize that the highest sales year was 2013.
+   * The highest sales year was 2013.
    * Indicate the specific sales value or growth percentage for 2013 compared to other years. 
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/12015d13-519c-48c5-8766-cf8120cff212)
 
-  
+5. Commute Distance Details
+   * The distance range of customer commutes is crucial for tailoring products and services to meet their needs effectively.
+   * Rand 0-5mile range having a major contribution
+   * short-distance commuting needs can attract a larger customer base and increase sales.
+![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/ea51bbf6-0f8e-43dc-864a-0088b7ead4d6)
 
+6. Order Quantity by Class
+   * The highest social class had the biggest contribution
+   * Emphasize the importance of understanding the purchasing power and preferences of different social classes.
+![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/251580e3-5900-4126-bb1b-6e3e2900e1e8)
 
-
-# Power Bi Dashboard Visualization
+# Power Bi Visualization Dashboard
 
 ![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/5341c159-700a-4a53-b430-839f90725d86)
 
+![image](https://github.com/mmankoji/Adventure-Works/assets/81578274/456ba7e1-3943-47be-b730-4efa5e45a98c)
 
 
 
